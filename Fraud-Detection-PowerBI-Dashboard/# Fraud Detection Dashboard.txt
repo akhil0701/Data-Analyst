@@ -1,0 +1,46 @@
+# Fraud Detection Dashboard using Power BI
+
+## 📌 Project Overview
+This Power BI dashboard analyzes fraudulent insurance claims by comparing actual and predicted fraud cases and evaluating machine learning model performance to support fraud investigation decisions.
+
+## 🎯 Objectives
+- Identify fraudulent insurance claims
+- Compare actual vs predicted fraud
+- Evaluate fraud detection model performance
+- Reduce financial loss and investigation cost
+
+## 📊 Key Metrics
+- Total Records
+- Actual Fraud Cases
+- Predicted Fraud Cases
+- Fraud Percentage
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+
+## 📈 Visualizations
+- KPI Cards
+- Fraud Distribution (Donut Chart)
+- Fraud Rate Overview
+- Confusion Matrix
+- Model Performance Metrics
+
+## 🧠 Key Insights
+- High recall minimizes missed fraudulent claims
+- Precision highlights false alert reduction opportunities
+- Confusion matrix supports cost-risk trade-off analysis
+
+## 🛠 Tools & Technologies
+- Power BI
+- DAX
+- Machine Learning (Binary Classification)
+- CSV / Excel Dataset
+
+## 📂 Files in Repository
+- Fraud_Detection_Dashboard.pbix
+- Dashboard_Screenshot.png
+- README.md
+
+## 🚀 Use Case
+Designed for data analysts and fraud risk teams to monitor, analyze, and improve fraud detection strategies.
